@@ -1,0 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/bash
+G="\e[92m"
+O="\e[0m"
+
+echo -e "$G" "annzc" "$O" "@" "$G" "Redmi6A" "$O"

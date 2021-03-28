@@ -1,0 +1,13 @@
+Termux Extra Keys
+
+Termux memiliki baris tombol khusus yang terdapat di bagian bawah layar.
+
+Tombol-tombol tersebut biasanya adalah berupa tombol tambahan yang tidak terdapat pada keyboard bawaan dari android.
+Seperti CTRL, TAB, ALT, ESC, F1-F12, tanda panah, dan lain sebagainya...
+
+Secara default, umumnya tombol tambahan ini antara lain:
+[ ESC | TAB | CTRL | ALT | - | DOWN | UP ]
+
+Sama halnya pada kustomisasi warna background sebelumnya, tombol khusus tambahan ini bisa diatur dan dimanipulasi sesuai dengan keinginan user.
+
+

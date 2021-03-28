@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=KILL SESSION
+Comment=Kill running vnc session
+Exec=vncserver -kill :1
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

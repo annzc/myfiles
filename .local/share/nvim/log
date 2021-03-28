@@ -1,0 +1,7 @@
+ERROR 2021-02-08T17:10:05.531 20615 init_child:175: chdir failed: No such file or directory
+ERROR 2021-02-08T17:10:05.531 20615 pty_process_spawn:83: Failed to get master descriptor status flags: Bad file descriptor
+ERROR 2021-02-23T18:21:12.105 1561  libuv_process_spawn:79: uv_spawn failed: no such file or directory
+ERROR 2021-02-25T04:56:10.779 7908  libuv_process_spawn:79: uv_spawn failed: no such file or directory
+ERROR 2021-02-25T04:56:10.785 7908  libuv_process_spawn:79: uv_spawn failed: no such file or directory
+ERROR 2021-02-25T04:59:12.622 8079  libuv_process_spawn:79: uv_spawn failed: no such file or directory
+ERROR 2021-02-25T04:59:12.627 8079  libuv_process_spawn:79: uv_spawn failed: no such file or directory

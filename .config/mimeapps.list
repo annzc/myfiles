@@ -1,0 +1,10 @@
+[Default Applications]
+audio/mpeg=userapp-ncmpcpp-BL6TZ0.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+
+[Added Associations]
+audio/mpeg=userapp-ncmpcpp-BL6TZ0.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+

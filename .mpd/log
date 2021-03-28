@@ -1,0 +1,980 @@
+Feb 07 07:22 : exception: Failed to open '/data/data/com.termux/files/home/.mpd/state': No such file or directory
+Feb 07 07:22 : update: added /AM1100.mp3
+Feb 07 07:22 : update: added /.uden ngertos tempe..mp3
+Feb 07 07:22 : update: added /Substitute.mp3
+Feb 07 07:22 : update: added /Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3
+Feb 07 07:22 : update: added /.Zaki vs. Imran.mp3
+Feb 07 07:22 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 07 07:22 : update: added /Sadness and Sorrow - Ost Naruto (guitar cover).mp3
+Feb 07 07:22 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 07 07:22 : update: added /Naruto - Sadness and Sorrow (Piano Version).mp3
+Feb 07 07:22 : update: added /Mansion - NF.mp3
+Feb 07 07:22 : update: added /crossing field - LiSA.mp3
+Feb 07 07:22 : update: added /1% no koibito.mp3
+Feb 07 07:22 : update: added /Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3
+Feb 07 07:22 : update: added /Brave Shine - Aimer.mp3
+Feb 07 07:22 : update: added /Chika dance FULL.mp3
+Feb 07 07:22 : update: added /.lo_semua_kntl.mp3
+Feb 07 07:22 : update: added /Eminem - Rap God (Explicit) [Official Video].mp3
+Feb 07 07:22 : update: added /Eminem - kim.mp3
+Feb 07 07:22 : update: added /.asyu ra cetho cuk..mp3
+Feb 07 07:22 : update: added /Godzilla (feat. Juice WRLD) - Eminem.mp3
+Feb 07 07:22 : update: added /Hollowness - 美波 (Minami) MV.mp3
+Feb 07 07:22 : update: added /In The End (Official HD Video) - Linkin Park_256k.mp3
+Feb 07 07:22 : update: added /Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3
+Feb 07 07:22 : update: added /Juice WRLD - Lucid Dreams.mp3
+Feb 07 07:22 : update: added /Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3
+Feb 07 07:22 : update: added /Maoujou de Oyasumi OP-Opening「FULL」- Inori Minase「Kaimin! Anmin! Suya Rhyst Seik_256k.mp3
+Feb 07 07:22 : update: added /NF - How Could You Leave Us.mp3
+Feb 07 07:22 : update: added /NF - Therapy Session.mp3
+Feb 07 07:22 : update: added /NF - WHY.mp3
+Feb 07 07:22 : update: added /NF - Warm Up.mp3
+Feb 07 07:22 : update: added /Numb - Linkin Park.mp3
+Feb 07 07:22 : update: added /Papaoutai - Stromae.mp3
+Feb 07 07:22 : update: added /Real - NF.mp3
+Feb 07 07:22 : update: added /SHUANG SHENG双笙 _ KOKORONASHI(心做し) LYRICS (JPNROMENG).mp3
+Feb 07 07:22 : update: added /Skinnyfabs - Happy.mp3
+Feb 07 07:22 : update: added /When I Grow Up - NF.mp3
+Feb 07 07:22 : update: added /Yasashii_Kimochi.mp3
+Feb 07 07:22 : update: added /main actor - 美波.mp3
+Feb 07 07:22 : update: added /不可思議のカルテ 「Fukashigi no Karte」.mp3
+Feb 07 07:24 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:27 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 07:27 : player: played "Substitute.mp3"
+Feb 07 07:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:31 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 07:31 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 07 07:39 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:42 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 07:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:43 : player: played "Substitute.mp3"
+Feb 07 07:46 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 07:47 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 07 07:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:51 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 07:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:51 : player: played "Substitute.mp3"
+Feb 07 07:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:57 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 07:57 : player: played "Real - NF.mp3"
+Feb 07 07:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:58 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 07 07:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 07:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:01 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 07 08:02 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:05 : player: played "Brave Shine - Aimer.mp3"
+Feb 07 08:07 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:11 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:11 : player: played "Real - NF.mp3"
+Feb 07 08:17 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:17 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:18 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 07 08:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:25 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:25 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:25 : player: played "Substitute.mp3"
+Feb 07 08:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:29 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Feb 07 08:33 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:33 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Feb 07 08:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:36 : player: played "NF - Warm Up.mp3"
+Feb 07 08:39 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:39 : player: played "NF - WHY.mp3"
+Feb 07 08:43 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:43 : player: played "Chika dance FULL.mp3"
+Feb 07 08:47 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:47 : player: played "When I Grow Up - NF.mp3"
+Feb 07 08:52 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:52 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 07 08:52 : player: played "NF - Therapy Session.mp3"
+Feb 07 08:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:56 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Feb 07 08:58 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 08:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 08:58 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Feb 07 09:02 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 09:02 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 09:02 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 07 09:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 09:06 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 07 09:08 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 09:08 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Feb 07 09:12 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 09:12 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 09:12 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Feb 07 09:17 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 09:18 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Feb 07 17:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:26 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 17:26 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:26 : player: played "Substitute.mp3"
+Feb 07 17:32 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:33 : player: played "Eminem - kim.mp3"
+Feb 07 17:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:37 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:40 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 17:40 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:40 : player: played "Substitute.mp3"
+Feb 07 17:44 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 17:44 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:44 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Feb 07 17:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:48 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Feb 07 17:50 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 17:50 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:50 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Feb 07 17:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : player: played ".uden ngertos tempe..mp3"
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:57 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 17:57 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:57 : player: played "Real - NF.mp3"
+Feb 07 17:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 17:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:02 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 18:02 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:03 : player: played "When I Grow Up - NF.mp3"
+Feb 07 18:09 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 18:09 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:09 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 07 18:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:11 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Feb 07 18:15 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 18:15 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:15 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 07 18:20 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 18:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:20 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Feb 07 18:23 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 07 18:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 18:23 : player: played "Numb - Linkin Park.mp3"
+Feb 07 18:26 : player: played "NF - Warm Up.mp3"
+Feb 07 20:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 07 20:51 : player: played "Real - NF.mp3"
+Feb 08 06:14 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 08 06:18 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 08 06:18 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 08 06:18 : player: played "Real - NF.mp3"
+Feb 08 06:22 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 08 06:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 08 06:22 : player: played "When I Grow Up - NF.mp3"
+Feb 08 06:23 : player: played ".Zaki vs. Imran.mp3"
+Feb 08 06:23 : exception: Not playing
+Feb 08 06:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+../src/src/player/Thread.cxx:812: void PlayerControl::PlayChunk(DetachedSong &, MusicChunkPtr, const AudioFormat &): assertion "chunk->CheckFormat(format)" failed
+Feb 10 20:03 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 20:03 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:03 : player: played "When I Grow Up - NF.mp3"
+Feb 10 20:07 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:07 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 10 20:10 : player: played "Substitute.mp3"
+Feb 10 20:10 : state_file: Loading state file /data/data/com.termux/files/home/.mpd/state
+Feb 10 20:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 20:10 : ffmpeg/mp3: Format mp3 probed with size=4096 and score=51
+Feb 10 20:10 : ffmpeg/mp3: pad 576 912
+Feb 10 20:10 : ffmpeg/mp3: Skipping 0 bytes of junk at 719.
+Feb 10 20:10 : ffmpeg/mp3: Before avformat_find_stream_info() pos: 719 bytes read:8192 seeks:0 nb_streams:1
+Feb 10 20:10 : ffmpeg/mp3: demuxer injecting skip 1105 / discard 0
+Feb 10 20:10 : ffmpeg/mp3float: skip 1105 / discard 0 samples due to side data
+Feb 10 20:10 : ffmpeg/mp3float: skip 1105/1152 samples
+Feb 10 20:10 : ffmpeg/mp3: All info found
+Feb 10 20:10 : ffmpeg/mp3: stream 0: start_time: 0.0250567 duration: 235.18
+Feb 10 20:10 : ffmpeg/mp3: format: start_time: 0.025057 duration: 235.18 (estimate from stream) bitrate=128 kb/s
+Feb 10 20:10 : ffmpeg/mp3: After avformat_find_stream_info() pos: 22223 bytes read:24576 seeks:0 frames:50
+Feb 10 20:10 : playlist: queue song 1:"Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 10 20:10 : decoder_thread: probing plugin ffmpeg
+Feb 10 20:10 : ffmpeg/mp3: Format mp3 probed with size=4096 and score=51
+Feb 10 20:10 : ffmpeg/mp3: pad 576 1080
+Feb 10 20:10 : ffmpeg/mp3: Skipping 0 bytes of junk at 501.
+Feb 10 20:10 : ffmpeg: detected input format 'mp3' (MP2/3 (MPEG audio layer 2/3))
+Feb 10 20:10 : ffmpeg/mp3: Before avformat_find_stream_info() pos: 501 bytes read:8192 seeks:0 nb_streams:1
+Feb 10 20:10 : ffmpeg/mp3: demuxer injecting skip 1105 / discard 0
+Feb 10 20:10 : ffmpeg/mp3float: skip 1105 / discard 0 samples due to side data
+Feb 10 20:10 : ffmpeg/mp3float: skip 1105/1152 samples
+Feb 10 20:10 : ffmpeg/mp3: All info found
+Feb 10 20:10 : ffmpeg/mp3: stream 0: start_time: 0.0250567 duration: 189.466
+Feb 10 20:10 : ffmpeg/mp3: format: start_time: 0.025057 duration: 189.466 (estimate from stream) bitrate=128 kb/s
+Feb 10 20:10 : ffmpeg/mp3: After avformat_find_stream_info() pos: 22005 bytes read:24576 seeks:0 frames:50
+Feb 10 20:10 : ffmpeg: codec 'mp3'
+Feb 10 20:10 : decoder: audio_format=44100:f:2, seekable=true
+Feb 10 20:10 : ffmpeg/mp3: demuxer injecting skip 1105 / discard 0
+Feb 10 20:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 20:10 : output: opened "Audio" (sles) audio_format=44100:f:2
+Feb 10 20:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 20:10 : output: opened "Visualizer" (fifo) audio_format=44100:16:2
+Feb 10 20:10 : output: converting in=44100:f:2 -> f=44100:f:2 -> out=44100:16:2
+Feb 10 20:10 : ffmpeg/mp3: demuxer injecting skip 0 / discard 551
+Feb 10 20:10 : ffmpeg/mp3float: skip 0 / discard 551 samples due to side data
+Feb 10 20:10 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 20:10 : ffmpeg/mp3float: discard 551/1152 samples
+Feb 10 20:10 : decoder_thread: probing plugin ffmpeg
+Feb 10 20:10 : ffmpeg/mp3: Format mp3 probed with size=131072 and score=51
+Feb 10 20:10 : ffmpeg/mp3: pad 0 0
+Feb 10 20:10 : ffmpeg/mp3: Skipping 0 bytes of junk at 91625.
+Feb 10 20:10 : ffmpeg: detected input format 'mp3' (MP2/3 (MPEG audio layer 2/3))
+Feb 10 20:10 : ffmpeg/mp3: Before avformat_find_stream_info() pos: 91625 bytes read:131072 seeks:0 nb_streams:2
+Feb 10 20:10 : ffmpeg/mp3: demuxer injecting skip 529 / discard 0
+Feb 10 20:10 : ffmpeg/mp3float: skip 529 / discard 0 samples due to side data
+Feb 10 20:10 : ffmpeg/mp3float: skip 529/1152 samples
+Feb 10 20:10 : ffmpeg/mp3: All info found
+Feb 10 20:10 : ffmpeg/mp3: stream 0: start_time: 0.0119955 duration: 231.863
+Feb 10 20:10 : ffmpeg/mp3: stream 1: start_time: 0.012 duration: 231.863
+Feb 10 20:10 : ffmpeg/mp3: format: start_time: 0.011995 duration: 231.863 (estimate from stream) bitrate=259 kb/s
+Feb 10 20:10 : ffmpeg/mp3: After avformat_find_stream_info() pos: 133609 bytes read:139264 seeks:0 frames:51
+Feb 10 20:10 : ffmpeg: codec 'mp3'
+Feb 10 20:10 : decoder: audio_format=44100:f:2, seekable=true
+Feb 10 20:10 : ffmpeg/mp3float: skip 529 / discard 0 samples due to side data
+Feb 10 20:10 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:10 : ffmpeg/mp3float: skip 529/1152 samples
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -3 -3
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -3 -3
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Feb 10 20:10 : state_file: Saving state file /data/data/com.termux/files/home/.mpd/state
+Feb 10 20:10 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Feb 10 20:10 : player: played "Substitute.mp3"
+Feb 10 20:10 : output: closed "Audio" (sles)
+Feb 10 20:10 : output: closed "Visualizer" (fifo)
+Feb 10 20:50 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 20:50 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:50 : player: played "Substitute.mp3"
+Feb 10 20:50 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:50 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:50 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:55 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 20:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 20:55 : player: played "Real - NF.mp3"
+Feb 10 20:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:01 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 21:01 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:01 : player: played "Substitute.mp3"
+Feb 10 21:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 21:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 10 21:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 10 21:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:08 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:09 : player: played "NF - Warm Up.mp3"
+Feb 10 21:09 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:12 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:12 : player: played "NF - Warm Up.mp3"
+Feb 10 21:15 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 21:15 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:16 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Feb 10 21:16 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:16 : player: played ".uden ngertos tempe..mp3"
+Feb 10 21:22 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 10 21:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 10 21:22 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 10 21:24 : player: played "NF - Therapy Session.mp3"
+Feb 10 21:29 : state_file: Loading state file /data/data/com.termux/files/home/.mpd/state
+Feb 10 21:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 21:29 : ffmpeg/mp3: Format mp3 probed with size=4096 and score=51
+Feb 10 21:29 : ffmpeg/mp3: pad 576 912
+Feb 10 21:29 : ffmpeg/mp3: Skipping 0 bytes of junk at 719.
+Feb 10 21:29 : ffmpeg/mp3: Before avformat_find_stream_info() pos: 719 bytes read:8192 seeks:0 nb_streams:1
+Feb 10 21:29 : ffmpeg/mp3: demuxer injecting skip 1105 / discard 0
+Feb 10 21:29 : ffmpeg/mp3float: skip 1105 / discard 0 samples due to side data
+Feb 10 21:29 : ffmpeg/mp3float: skip 1105/1152 samples
+Feb 10 21:29 : ffmpeg/mp3: All info found
+Feb 10 21:29 : ffmpeg/mp3: stream 0: start_time: 0.0250567 duration: 235.18
+Feb 10 21:29 : ffmpeg/mp3: format: start_time: 0.025057 duration: 235.18 (estimate from stream) bitrate=128 kb/s
+Feb 10 21:29 : ffmpeg/mp3: After avformat_find_stream_info() pos: 22223 bytes read:24576 seeks:0 frames:50
+Feb 10 21:31 : state_file: Saving state file /data/data/com.termux/files/home/.mpd/state
+Feb 22 09:53 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 09:54 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 09:58 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 09:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 09:58 : player: played "Real - NF.mp3"
+Feb 22 10:02 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:03 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:07 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:07 : player: played "/sdcard/Download/Clock Strikes.mp3"
+Feb 22 10:12 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:12 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:15 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:16 : player: played "/sdcard/Download/Aggressive Rap Instrumental _ Hard Angry Trap Beat (prod. Luxray Beats).mp3"
+Feb 22 10:18 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:18 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Feb 22 10:22 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 10:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:22 : player: played "When I Grow Up - NF.mp3"
+Feb 22 10:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 22 10:25 : player: played "NF - WHY.mp3"
+Feb 22 10:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:28 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Feb 22 10:32 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 10:32 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 10:32 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 22 10:36 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 10:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 22 10:36 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Feb 22 10:37 : player: played ".Zaki vs. Imran.mp3"
+Feb 22 11:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 22 11:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:27 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:27 : player: played "Real - NF.mp3"
+Feb 22 11:30 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:30 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:30 : player: played "Numb - Linkin Park.mp3"
+Feb 22 11:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:34 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Feb 22 11:37 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:37 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:37 : player: played "Chika dance FULL.mp3"
+Feb 22 11:38 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:43 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:43 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 22 11:43 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Feb 22 11:46 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:46 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Feb 22 11:49 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:49 : player: played "Substitute.mp3"
+Feb 22 11:55 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:55 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 22 11:59 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 11:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 11:59 : player: played "When I Grow Up - NF.mp3"
+Feb 22 12:03 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:03 : player: played "/sdcard/Download/Clock Strikes.mp3"
+Feb 22 12:09 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:09 : player: played "NF - How Could You Leave Us.mp3"
+Feb 22 12:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:12 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Feb 22 12:15 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 12:15 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:15 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Feb 22 12:19 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:19 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 22 12:22 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 12:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:22 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Feb 22 12:26 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:26 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Feb 22 12:31 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 12:31 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:32 : player: played "NF - Therapy Session.mp3"
+Feb 22 12:35 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 22 12:35 : player: played "/sdcard/Download/Aggressive Rap Instrumental _ Hard Angry Trap Beat (prod. Luxray Beats).mp3"
+Feb 22 12:38 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:38 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Feb 22 12:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:41 : player: played "NF - WHY.mp3"
+Feb 22 12:46 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 12:46 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:46 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Feb 22 12:49 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 12:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:50 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 22 12:53 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 12:53 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:54 : player: played "Papaoutai - Stromae.mp3"
+Feb 22 12:54 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 12:54 : player: played ".uden ngertos tempe..mp3"
+Feb 22 12:59 : player: played "/sdcard/Download/Crying Alone - Sad & Emotional Piano Song Instrumental(1).mp3"
+Feb 22 14:33 : exception: Not playing
+Feb 22 14:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 22 14:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 14:39 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 22 15:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:04 : player: played ".uden ngertos tempe..mp3"
+Feb 22 15:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:09 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 15:09 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:09 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Feb 22 15:13 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:13 : player: played "/sdcard/Download/Clock Strikes.mp3"
+Feb 22 15:17 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 15:17 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:17 : player: played "When I Grow Up - NF.mp3"
+Feb 22 15:22 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 22 15:22 : player: played "/sdcard/Download/Crying Alone - Sad & Emotional Piano Song Instrumental(1).mp3"
+Feb 22 15:25 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:25 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Feb 22 15:28 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 15:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:29 : player: played "Papaoutai - Stromae.mp3"
+Feb 22 15:31 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:31 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Feb 22 15:35 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 15:35 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:35 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 22 15:37 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 15:37 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:37 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Feb 22 15:41 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 22 15:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 22 15:41 : player: played "Chika dance FULL.mp3"
+Feb 22 15:41 : player: played "Substitute.mp3"
+Feb 24 05:21 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 05:21 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 05:21 : player: played "Substitute.mp3"
+Feb 24 05:25 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 05:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 24 05:25 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Feb 24 05:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 05:28 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Feb 24 05:31 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 05:31 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 05:32 : player: played "Papaoutai - Stromae.mp3"
+Feb 24 05:36 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 05:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 24 05:36 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Feb 24 05:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 05:37 : player: played ".Zaki vs. Imran.mp3"
+Feb 24 05:37 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 05:37 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:34 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:38 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 09:38 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:38 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:38 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:38 : player: played ".uden ngertos tempe..mp3"
+Feb 24 09:40 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:42 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 24 09:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:44 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:44 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 24 09:44 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:55 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 09:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:55 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 24 09:59 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 09:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 09:59 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Feb 24 10:04 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 24 10:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 10:04 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Feb 24 10:10 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 10:11 : player: played "Eminem - kim.mp3"
+Feb 24 10:11 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 24 13:32 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 24 13:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:24 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 04:24 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:24 : player: played "Substitute.mp3"
+Feb 25 04:25 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:25 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:26 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:26 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 25 04:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:27 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:29 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:30 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 25 04:31 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:32 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:34 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:34 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 25 04:35 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:40 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 04:40 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:40 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Feb 25 04:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:43 : player: played ".uden ngertos tempe..mp3"
+Feb 25 04:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:48 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 04:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:48 : player: played "NF - Therapy Session.mp3"
+Feb 25 04:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 04:52 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Feb 25 04:58 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 04:58 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 25 04:58 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Feb 25 05:01 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:02 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Feb 25 05:05 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:05 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Feb 25 05:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:12 : player: played "Eminem - kim.mp3"
+Feb 25 05:17 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 05:17 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:17 : player: played "Mansion - NF.mp3"
+Feb 25 05:19 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:19 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 25 05:24 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 05:24 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:25 : player: played "NF - Therapy Session.mp3"
+Feb 25 05:30 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 05:30 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:30 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Feb 25 05:33 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 05:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:33 : player: played "Substitute.mp3"
+Feb 25 05:36 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 05:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:36 : player: played "Numb - Linkin Park.mp3"
+Feb 25 05:40 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 25 05:40 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:40 : player: played "Chika dance FULL.mp3"
+Feb 25 05:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 25 05:45 : player: played "NF - How Could You Leave Us.mp3"
+Feb 25 05:48 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 25 05:48 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Feb 25 05:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:51 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Feb 25 05:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 25 05:56 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Feb 26 19:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 26 20:02 : player: played "Real - NF.mp3"
+Feb 26 20:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 26 20:05 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 26 20:05 : player: played "Real - NF.mp3"
+Feb 26 20:07 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 26 20:19 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 26 20:19 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 26 20:19 : player: played "Real - NF.mp3"
+Feb 26 20:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 26 20:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 27 20:25 : player: played "Substitute.mp3"
+Feb 28 17:37 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 28 17:37 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:37 : player: played "Substitute.mp3"
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : player: played "/sdcard/Music/NF - CLOUDS_256k.mp3"
+Feb 28 17:43 : exception: Failed to decode /sdcard/Music/NF - CLOUDS_256k.mp3; Failed to open '/sdcard/Music/NF - CLOUDS_256k.mp3': No such file or directory
+Feb 28 17:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:45 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 28 17:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 28 17:45 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Feb 28 17:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:49 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Feb 28 17:53 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Feb 28 17:53 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Feb 28 17:56 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 17:56 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Feb 28 18:01 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 28 18:01 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 18:01 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Feb 28 18:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Feb 28 18:05 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Feb 28 18:05 : player: played "When I Grow Up - NF.mp3"
+Feb 28 19:58 : player: played "Mansion - NF.mp3"
+Mar 01 05:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 05:44 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 05:44 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 05:44 : player: played "Substitute.mp3"
+Mar 01 05:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 01 05:45 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 05:49 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 05:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 05:49 : player: played "When I Grow Up - NF.mp3"
+Mar 01 05:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 05:55 : player: played "Eminem - kim.mp3"
+Mar 01 05:58 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 05:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 05:58 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Mar 01 06:02 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 06:02 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 06:02 : player: played "Real - NF.mp3"
+Mar 01 06:08 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 06:08 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 01 06:09 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 01 06:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 06:11 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Mar 01 06:17 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 06:17 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 06:17 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Mar 01 06:20 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 06:21 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 06:21 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Mar 01 06:24 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 01 06:24 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 06:25 : player: played "Papaoutai - Stromae.mp3"
+Mar 01 06:29 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 01 06:29 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Mar 01 13:13 : player: played "NF - How Could You Leave Us.mp3"
+Mar 03 08:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 08:55 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 08:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 08:56 : player: played "Numb - Linkin Park.mp3"
+Mar 03 14:11 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 03 14:11 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Mar 03 14:12 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 03 14:12 : player: played ".Zaki vs. Imran.mp3"
+Mar 03 14:15 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:15 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Mar 03 14:18 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:18 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:19 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Mar 03 14:22 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:22 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:23 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Mar 03 14:28 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:28 : player: played "NF - Therapy Session.mp3"
+Mar 03 14:30 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:31 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Mar 03 14:34 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:34 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Mar 03 14:38 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:38 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:39 : player: played "When I Grow Up - NF.mp3"
+Mar 03 14:39 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:39 : player: played ".uden ngertos tempe..mp3"
+Mar 03 14:42 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:42 : player: played "Papaoutai - Stromae.mp3"
+Mar 03 14:48 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:48 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Mar 03 14:51 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 14:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:51 : player: played "Substitute.mp3"
+Mar 03 14:55 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 03 14:55 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Mar 03 14:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 14:58 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Mar 03 15:04 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 03 15:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 15:05 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 03 15:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 03 15:11 : player: played "Eminem - kim.mp3"
+Mar 03 15:12 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Mar 12 17:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 12 17:11 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Mar 12 17:14 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 12 17:14 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 12 17:14 : player: played "Numb - Linkin Park.mp3"
+Mar 12 17:18 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 12 17:18 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 12 17:18 : player: played "Papaoutai - Stromae.mp3"
+Mar 15 20:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:05 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:07 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:08 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:08 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:11 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:12 : player: played "Substitute.mp3"
+Mar 15 20:16 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:16 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:16 : player: played "Real - NF.mp3"
+Mar 15 20:19 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:19 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:19 : player: played "Numb - Linkin Park.mp3"
+Mar 15 20:23 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:23 : player: played "When I Grow Up - NF.mp3"
+Mar 15 20:26 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:26 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Mar 15 20:31 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:31 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:31 : player: played "NF - Therapy Session.mp3"
+Mar 15 20:31 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:31 : player: played ".uden ngertos tempe..mp3"
+Mar 15 20:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:40 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:40 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:40 : player: played "Papaoutai - Stromae.mp3"
+Mar 15 20:43 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 20:43 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 15 20:44 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Mar 15 20:46 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 15 20:46 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Mar 15 20:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:50 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Mar 15 20:53 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:53 : player: played "NF - WHY.mp3"
+Mar 15 20:57 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 20:57 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Mar 15 21:03 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 21:03 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:03 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 15 21:12 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:12 : player: played "NF - How Could You Leave Us.mp3"
+Mar 15 21:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:41 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 15 21:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:41 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:47 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 21:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:47 : player: played "Mansion - NF.mp3"
+Mar 15 21:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:48 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:55 : player: played "/data/data/com.termux/files/home/external/Music/Gumi - Childhood Blues (オサナナブルー).mp3"
+Mar 15 21:58 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 21:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 21:58 : player: played "Numb - Linkin Park.mp3"
+Mar 15 22:03 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:03 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:03 : player: played "Real - NF.mp3"
+Mar 15 22:06 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:06 : player: played "Substitute.mp3"
+Mar 15 22:11 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:11 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:12 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Mar 15 22:16 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:16 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:16 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Mar 15 22:19 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:20 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Mar 15 22:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:20 : player: played ".uden ngertos tempe..mp3"
+Mar 15 22:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:23 : player: played "NF - WHY.mp3"
+Mar 15 22:25 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 15 22:25 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Mar 15 22:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:29 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Mar 15 22:34 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:34 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:34 : player: played "Mansion - NF.mp3"
+Mar 15 22:39 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:39 : player: played "/data/data/com.termux/files/home/external/Music/Sayuri - Heikousen.mp3"
+Mar 15 22:42 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:42 : player: played "Chika dance FULL.mp3"
+Mar 15 22:46 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:46 : player: played "不可思議のカルテ 「Fukashigi no Karte」.mp3"
+Mar 15 22:49 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:50 : player: played "Numb - Linkin Park.mp3"
+Mar 15 22:55 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 22:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 22:55 : player: played "main actor - 美波.mp3"
+Mar 15 23:01 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:01 : player: played "Eminem - kim.mp3"
+Mar 15 23:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:05 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:05 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Mar 15 23:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 15 23:08 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Mar 15 23:08 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:09 : player: played ".Zaki vs. Imran.mp3"
+Mar 15 23:13 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 15 23:13 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Mar 15 23:16 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:16 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Mar 15 23:21 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:21 : player: played "/data/data/com.termux/files/home/external/Music/Gumi - Childhood Blues (オサナナブルー).mp3"
+Mar 15 23:26 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:26 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:27 : player: played "NF - Therapy Session.mp3"
+Mar 15 23:33 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:33 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 15 23:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:37 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Mar 15 23:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:42 : player: played "NF - How Could You Leave Us.mp3"
+Mar 15 23:47 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:47 : player: played "Real - NF.mp3"
+Mar 15 23:51 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:51 : player: played "Papaoutai - Stromae.mp3"
+Mar 15 23:55 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:55 : player: played "When I Grow Up - NF.mp3"
+Mar 15 23:58 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 15 23:58 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 15 23:59 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Mar 16 00:04 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 00:04 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:04 : player: played "NF - Therapy Session.mp3"
+Mar 16 00:09 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:09 : player: played "/data/data/com.termux/files/home/external/Music/Sayuri - Heikousen.mp3"
+Mar 16 00:14 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 00:14 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:14 : player: played "Hollowness - 美波 (Minami) MV.mp3"
+Mar 16 00:20 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 00:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:20 : player: played "main actor - 美波.mp3"
+Mar 16 00:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:24 : player: played "In The End (Official HD Video) - Linkin Park_256k.mp3"
+Mar 16 00:28 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 00:28 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:28 : player: played "When I Grow Up - NF.mp3"
+Mar 16 00:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:33 : player: played "NF - How Could You Leave Us.mp3"
+Mar 16 00:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:36 : player: played "Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3"
+Mar 16 00:40 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 00:40 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 16 00:40 : player: played "Real - NF.mp3"
+Mar 16 00:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:43 : player: played "Sadness and Sorrow - Ost Naruto (guitar cover).mp3"
+Mar 16 00:43 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:43 : player: played ".uden ngertos tempe..mp3"
+Mar 16 00:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:47 : player: played "Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3"
+Mar 16 00:51 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 00:51 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:51 : player: played "Juice WRLD - Lucid Dreams.mp3"
+Mar 16 00:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 00:55 : player: played "不可思議のカルテ 「Fukashigi no Karte」.mp3"
+Mar 16 01:00 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:00 : player: played "/data/data/com.termux/files/home/external/Music/Gumi - Childhood Blues (オサナナブルー).mp3"
+Mar 16 01:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:05 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:06 : player: played "Mansion - NF.mp3"
+Mar 16 01:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 16 01:10 : player: played "Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3"
+Mar 16 01:10 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:11 : player: played ".Zaki vs. Imran.mp3"
+Mar 16 01:14 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:14 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:14 : player: played "Chika dance FULL.mp3"
+Mar 16 01:16 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:16 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:17 : player: played "Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3"
+Mar 16 01:20 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:20 : player: played "Papaoutai - Stromae.mp3"
+Mar 16 01:23 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:24 : player: played "Numb - Linkin Park.mp3"
+Mar 16 01:30 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:30 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:30 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 16 01:33 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:33 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:33 : player: played "Substitute.mp3"
+Mar 16 01:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:36 : player: played "NF - WHY.mp3"
+Mar 16 01:42 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:42 : player: played "Eminem - kim.mp3"
+Mar 16 01:47 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:47 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:47 : player: played "Godzilla (feat. Juice WRLD) - Eminem.mp3"
+Mar 16 01:51 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:51 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 16 01:51 : player: played "/data/data/com.termux/files/home/external/Music/1% no koibito.mp3"
+Mar 16 01:54 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:54 : player: played "Naruto - Sadness and Sorrow (Piano Version).mp3"
+Mar 16 01:59 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 01:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:59 : player: played "Mansion - NF.mp3"
+Mar 16 01:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 01:59 : player: played ".uden ngertos tempe..mp3"
+Mar 16 02:02 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 02:02 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 02:02 : player: played "Substitute.mp3"
+Mar 16 02:06 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 02:06 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 02:06 : player: played "When I Grow Up - NF.mp3"
+Mar 16 02:09 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 02:09 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 02:10 : player: played "Numb - Linkin Park.mp3"
+Mar 16 02:15 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Mar 16 02:15 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 02:15 : player: played "main actor - 美波.mp3"
+Mar 16 02:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 16 02:20 : player: played "/data/data/com.termux/files/home/external/Music/Gumi - Childhood Blues (オサナナブルー).mp3"
+Mar 16 04:30 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 18 05:19 : player: played "Eminem - Rap God (Explicit) [Official Video].mp3"
+Mar 18 05:19 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Mar 18 05:20 : player: played "/data/data/com.termux/files/home/external/Music/Gumi - Childhood Blues (オサナナブルー).mp3"

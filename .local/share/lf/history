@@ -1,0 +1,12 @@
+: home
+: /sdcard
+: cd /sdcard
+: cd ~/external/
+: set mouse=a
+: mouse on
+: set mouse on
+: q
+: cd /sdcard
+: cd
+: cd
+: q

@@ -1,0 +1,242 @@
+InitConnectionLimits: MaxClients = 2048
+
+Xvnc TigerVNC 1.10.0 - built Mar  1 2021 20:15:33
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12000000, The X.Org Foundation
+
+
+Sun Mar 21 14:17:33 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+Sync Extension 3.1
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/misc/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/TTF/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/OTF/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/Type1/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/100dpi/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/75dpi/, removing from list!
+Popen: `"/data/data/com.termux/files/usr/bin/xkbcomp" -w 1 "-R/data/data/com.termux/files/usr/share/X11/xkb" -xkm "-" -em1 "The XKEYBOARD keymap compiler (xkbcomp) reports:" -emp "> " -eml "Errors from xkbcomp are not fatal to the X server" "/data/data/com.termux/files/usr/tmp/server-1.xkm"', fp = 0xaa506d0c
+Pclose: fp = 0xaa506d0c
+Loaded XKB keymap /data/data/com.termux/files/usr/tmp/server-1.xkm, defined=0x7f
+client(0): Reserved pid(1049).
+client(0): Reserved cmdname(/data/data/com.termux/files/usr/bin/Xvnc) and cmdargs(:1 -auth /data/data/com.termux/files/home/.Xauthority -desktop localhost:1 () -geometry 1420x720 -pn -rfbauth /data/data/com.termux/files/home/.vnc/passwd -rfbport 5901 -rfbwait 30000).
+client(200000): Reserved pid(1055).
+client(200000): Reserved cmdname(feh) and cmdargs(--bg-fill /sdcard/img/bg.png).
+AllocNewConnection: client index = 1, socket fd = 8
+client(400000): Reserved pid(1058).
+client(400000): Reserved cmdname(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+AllocNewConnection: client index = 2, socket fd = 9
+client(600000): Reserved pid(1065).
+client(600000): Reserved cmdname(dbus-launch) and cmdargs(--autolaunch=0910f63d3942472b732c8bde604f53e7 --binary-syntax --close-stderr).
+AllocNewConnection: client index = 3, socket fd = 10
+client(800000): Reserved pid(1077).
+client(800000): Reserved cmdname(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+AllocNewConnection: client index = 4, socket fd = 11
+client(a00000): Reserved pid(1089).
+client(a00000): Reserved cmdname(dbus-launch) and cmdargs(--autolaunch=0910f63d3942472b732c8bde604f53e7 --binary-syntax --close-stderr).
+AllocNewConnection: client index = 5, socket fd = 12
+client(c00000): Reserved pid(1060).
+client(c00000): Reserved cmdname(xfce4-terminal) and cmdargs(NULL).
+AllocNewConnection: client index = 6, socket fd = 13
+client(e00000): Reserved pid(1058).
+client(e00000): Reserved cmdname(xfce4-session) and cmdargs(NULL).
+AllocNewConnection: client index = 7, socket fd = 14
+Not using O_TMPFILE
+client(1000000): Reserved pid(1156).
+client(1000000): Reserved cmdname(dbus-launch) and cmdargs(--autolaunch=0910f63d3942472b732c8bde604f53e7 --binary-syntax --close-stderr).
+AllocNewConnection: client index = 8, socket fd = 15
+client(1000000): Released pid(1156).
+client(1000000): Released cmdline(dbus-launch) and cmdargs(--autolaunch=0910f63d3942472b732c8bde604f53e7 --binary-syntax --close-stderr).
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+client(1000000): Reserved pid(1055).
+client(1000000): Reserved cmdname(feh) and cmdargs(--bg-fill /sdcard/img/bg.png).
+AllocNewConnection: client index = 8, socket fd = 15
+client(200000): Released pid(1055).
+client(200000): Released cmdline(feh) and cmdargs(--bg-fill /sdcard/img/bg.png).
+client(200000): Reserved pid(1162).
+client(200000): Reserved cmdname(xfwm4) and cmdargs(NULL).
+AllocNewConnection: client index = 1, socket fd = 8
+
+(xfwm4:1162): xfwm4-WARNING **: 14:17:37.739: Cannot find a matching visual for the frame buffer config.
+
+(xfwm4:1162): xfwm4-WARNING **: 14:17:37.741: Cannot find a matching GLX config, vsync disabled.
+client(1200000): Reserved pid(1183).
+client(1200000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 9, socket fd = 16
+client(1400000): Reserved pid(1183).
+client(1400000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 10, socket fd = 19
+client(1400000): Released pid(1183).
+client(1400000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+client(1400000): Reserved pid(1183).
+client(1400000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 10, socket fd = 19
+client(1600000): Reserved pid(1213).
+client(1600000): Reserved cmdname(xfce4-panel) and cmdargs(NULL).
+AllocNewConnection: client index = 11, socket fd = 20
+client(1800000): Reserved pid(1213).
+client(1800000): Reserved cmdname(xfce4-panel) and cmdargs(NULL).
+AllocNewConnection: client index = 12, socket fd = 18
+client(1800000): Released pid(1213).
+client(1800000): Released cmdline(xfce4-panel) and cmdargs(NULL).
+client(1800000): Reserved pid(1223).
+client(1800000): Reserved cmdname(Thunar) and cmdargs(--daemon).
+AllocNewConnection: client index = 12, socket fd = 18
+client(1400000): Released pid(1183).
+client(1400000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+client(1400000): Reserved pid(1228).
+client(1400000): Reserved cmdname(xfdesktop) and cmdargs(NULL).
+AllocNewConnection: client index = 10, socket fd = 19
+client(1a00000): Reserved pid(1228).
+client(1a00000): Reserved cmdname(xfdesktop) and cmdargs(NULL).
+AllocNewConnection: client index = 13, socket fd = 22
+
+** (xfdesktop:1228): WARNING **: 14:17:40.060: Thumbnailer failed calling GetFlavors
+client(1c00000): Reserved pid(1240).
+client(1c00000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 14, socket fd = 23
+client(1c00000): Released pid(1240).
+client(1c00000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+
+** (xfdesktop:1228): WARNING **: 14:17:40.435: Failed to get system bus: Could not connect: No such file or directory
+client(1c00000): Reserved pid(1263).
+client(1c00000): Reserved cmdname(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libsystray.so 6 23068679 systray Notification Area Area where notification icons appear).
+AllocNewConnection: client index = 14, socket fd = 21
+client(1e00000): Reserved pid(1284).
+client(1e00000): Reserved cmdname(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libactions.so 14 23068680 actions Action Buttons Log out, lock or other system actions).
+AllocNewConnection: client index = 15, socket fd = 26
+
+(xfce4-session:1058): xfce4-session-WARNING **: 14:17:42.466: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfce4-session:1058): xfce4-session-WARNING **: 14:17:42.472: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfce4-session:1058): xfce4-session-WARNING **: 14:17:42.477: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+Sun Mar 21 14:17:43 2021
+ Connections: accepted: 127.0.0.1::57338
+ SConnection: Client needs protocol version 3.8
+
+Sun Mar 21 14:17:44 2021
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+client(2000000): Reserved pid(1338).
+client(2000000): Reserved cmdname(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+AllocNewConnection: client index = 16, socket fd = 30
+client(2000000): Released pid(1338).
+client(2000000): Released cmdline(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+client(2000000): Reserved pid(1733).
+client(2000000): Reserved cmdname(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+AllocNewConnection: client index = 16, socket fd = 27
+client(2000000): Released pid(1733).
+client(2000000): Released cmdline(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+client(2000000): Reserved pid(1802).
+client(2000000): Reserved cmdname(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+AllocNewConnection: client index = 16, socket fd = 27
+client(2000000): Released pid(1802).
+client(2000000): Released cmdline(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+client(2000000): Reserved pid(1867).
+client(2000000): Reserved cmdname(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+AllocNewConnection: client index = 16, socket fd = 27
+client(2000000): Released pid(1867).
+client(2000000): Released cmdline(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+client(2000000): Reserved pid(1923).
+client(2000000): Reserved cmdname(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+AllocNewConnection: client index = 16, socket fd = 27
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+client(2000000): Released pid(1923).
+client(2000000): Released cmdline(/data/data/com.termux/files/usr/bin/vncviewer) and cmdargs(NULL).
+client(2000000): Reserved pid(5157).
+client(2000000): Reserved cmdname(wireshark-gtk) and cmdargs(NULL).
+AllocNewConnection: client index = 16, socket fd = 27
+
+(Thunar:1223): thunar-WARNING **: 14:59:52.281: Content type loading failed for .zsh_history.LOCK: Error when getting information for file “/data/data/com.termux/files/home/.zsh_history.LOCK”: No such file or directory
+client(c00000): Released pid(1060).
+client(c00000): Released cmdline(xfce4-terminal) and cmdargs(NULL).
+client(2000000): Released pid(5157).
+client(2000000): Released cmdline(wireshark-gtk) and cmdargs(NULL).
+client(c00000): Reserved pid(6216).
+client(c00000): Reserved cmdname(exo-desktop-item-edit) and cmdargs(--display=:1 --create-new --type Application file:///data/data/com.termux/files/home/Desktop).
+AllocNewConnection: client index = 6, socket fd = 13
+client(c00000): Released pid(6216).
+client(c00000): Released cmdline(exo-desktop-item-edit) and cmdargs(--display=:1 --create-new --type Application file:///data/data/com.termux/files/home/Desktop).
+
+** (xfdesktop:1228): WARNING **: 15:03:40.530: DBUS-call failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+Killing Xvnc process ID 1049
+Gdk-Message: 15:03:43.685: xfwm4: Fatal IO error 11 (Try again) on X server :1.
+
+client(200000): Released pid(1162).
+client(200000): Released cmdline(xfwm4) and cmdargs(NULL).
+client(400000): Released pid(1058).
+client(400000): Released cmdline(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+client(600000): Released pid(1065).
+client(600000): Released cmdline(dbus-launch) and cmdargs(--autolaunch=0910f63d3942472b732c8bde604f53e7 --binary-syntax --close-stderr).
+client(800000): Released pid(1077).
+client(800000): Released cmdline(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+client(a00000): Released pid(1089).
+client(a00000): Released cmdline(dbus-launch) and cmdargs(--autolaunch=0910f63d3942472b732c8bde604f53e7 --binary-syntax --close-stderr).
+Gdk-Message: 15:03:43.718: xfce4-session: Fatal IO error 11 (Try again) on X server :1.
+
+client(e00000): Released pid(1058).
+client(e00000): Released cmdline(xfce4-session) and cmdargs(NULL).
+client(1000000): Released pid(1055).
+client(1000000): Released cmdline(feh) and cmdargs(--bg-fill /sdcard/img/bg.png).
+Gdk-Message: 15:03:43.721: xfsettingsd: Fatal IO error 11 (Try again) on X server :1.
+
+client(1200000): Released pid(1183).
+client(1200000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+Gdk-Message: 15:03:43.724: xfdesktop: Fatal IO error 11 (Try again) on X server :1.
+
+client(1400000): Released pid(1228).
+client(1400000): Released cmdline(xfdesktop) and cmdargs(NULL).
+Gdk-Message: 15:03:43.729: xfce4-panel: Fatal IO error 11 (Try again) on X server :1.
+
+client(1600000): Released pid(1213).
+client(1600000): Released cmdline(xfce4-panel) and cmdargs(NULL).
+Gdk-Message: 15:03:43.736: Thunar: Fatal IO error 11 (Try again) on X server :1.
+
+client(1800000): Released pid(1223).
+client(1800000): Released cmdline(Thunar) and cmdargs(--daemon).
+client(1a00000): Released pid(1228).
+client(1a00000): Released cmdline(xfdesktop) and cmdargs(NULL).
+client(1c00000): Released pid(1263).
+client(1c00000): Released cmdline(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libsystray.so 6 23068679 systray Notification Area Area where notification icons appear).
+client(1e00000): Released pid(1284).
+client(1e00000): Released cmdline(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libactions.so 14 23068680 actions Action Buttons Log out, lock or other system actions).
+Gdk-Message: 15:03:43.744: wrapper-2.0: Fatal IO error 11 (Try again) on X server :1.
+
+
+Sun Mar 21 15:03:43 2021
+ VNCSConnST:  closing 127.0.0.1::57338: Server shutdown
+ EncodeManager: Framebuffer updates: 5989
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 25 rects, 277.241 kpixels
+ EncodeManager:             400 B (1:2773.16 ratio)
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 65 rects, 2.25299 Mpixels
+ EncodeManager:            1.26953 KiB (1:6932.87 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 49 rects, 1.45238 Mpixels
+ EncodeManager:                 3.23926 KiB (1:1751.61 ratio)
+ EncodeManager:     Indexed RLE: 1.866 krects, 22.1472 Mpixels
+ EncodeManager:                  791.385 KiB (1:109.346 ratio)
+ EncodeManager:     Full Colour: 7.664 krects, 143.467 Mpixels
+ EncodeManager:                  50.8715 MiB (1:10.7599 ratio)
+ EncodeManager:  Gdk-Message: 15:03:43.754: wrapper-2.0: Fatal IO error 11 (Try again) on X server :1.
+
+ Total: 9.669 krects, 169.597 Mpixels
+ EncodeManager:          51.6492 MiB (1:12.5282 ratio)
+ ComparingUpdateTracker: 633.706 Mpixels in / 173.013 Mpixels out
+ ComparingUpdateTracker: (1:3.66276 ratio)
+(dix) removing device 2
+(dix) removing device 3
+(dix) removing device 5
+(dix) removing device 4
+(dix) removing device 7
+(dix) removing device 6
+client(0): Released pid(1049).
+client(0): Released cmdline(/data/data/com.termux/files/usr/bin/Xvnc) and cmdargs(:1 -auth /data/data/com.termux/files/home/.Xauthority -desktop localhost:1 () -geometry 1420x720 -pn -rfbauth /data/data/com.termux/files/home/.vnc/passwd -rfbport 5901 -rfbwait 30000).
+
+(xfwm4:6271): Gtk-WARNING **: 15:03:43.853: cannot open display: :1.0

@@ -1,0 +1,8 @@
+[user]
+	email = azcona.ann@gmail.com
+	namr = Ann
+[init]
+	defaultBranch = master
+[credential "https://github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential

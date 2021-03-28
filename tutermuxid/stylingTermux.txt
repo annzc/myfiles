@@ -1,0 +1,62 @@
+Sedikit Tentang Customisasi Termux
+
+Termux secara default memiliki warna latar belakang (background) yang hitam pekat dengan tulisan (foreground) berwarna putih cerah. Seperti berikut.
+
+background=#000000 # hex color untuk hitam
+foreground=#ffffff # hex color untuk putih
+
+Warna tersebut memanglah umum yang mana notabene nya Termux merupakan terminal emulator.
+
+Tapi bagi user yang bosan dengan warna default Termux, hal tersebut bisa diubah sesuai dengan keinginan.
+
+Termux memiliki direktori spesial yang terletak di folder $HOME. Direktori ini diawali dengan titik (dot), yaitu dengan nama '.termux' (dot termux).
+
+Direktori ini secara otomatis terbuat saat pertama kali user menginstal Termux. Namun pada versi Termux yang lebih lawas, direktori spesial ini tidak secara otomatis terbuat. Tetapi masih bisa dibuat secara manual oleh user menggunakan command:
+
+$ mkdir ~/.termux
+
+Pada direktori inilah user bisa mengatur warna yang ada pada Termux. Pengaturan warna tersebut terletak pada file yang bernama 'colors.properties'.
+
+Jika file colors.properties belum ada, user dapat membuatnya dongan command:
+
+$ touch ~/.termux/colors.properties
+
+Sebagai contoh, dibawah ini adalah konfigurasi warna favorit saya yang saya terapkan pada Termux.
+Bisa dicoba diterapkan nih. 
+
+background=#141821
+foreground=#abb2bf
+cursor=#abb2bf
+
+color0=#282c34
+color1=#e06c75
+color2=#98c379
+color3=#e5c07b
+color4=#61afef
+color5=#c678dd
+color6=#56b6c2
+color7=#abb2bf
+color8=#545862
+color9=#e06c75
+color10=#98c379
+color11=#e5c07b
+color12=#61afef
+color13=#c678dd
+color14=#56b6c2
+color15=#c8ccd4
+
+Seperti yang telah disebutkan sebelumnya, "background" mengatur warna latar belakang aplikasi dan "foreground" mengatur warna tulisan.
+"cursor" mengatur warna dari pointer nya.
+
+Sedangkan "color0"-"color15" adalah pengaturan warna lainnya. Misalnya saja ketika user mengeksekusi perintah 'ls' untuk menampilkan list dari isi sebuah direktori, maka list tersebut dibedakan dengan warna sesuai tipe file masing-masing.
+
+Direktori berwarna biru, file executable berwarna hijau, symlink berwarna cyan, dsb.
+
+Jika ada yang ingin ditanyakan silahkan berdiskusi di kolom diskusi/komentar.
+
+Sekian, semoga bermanfaat.
+
+
+
+
+

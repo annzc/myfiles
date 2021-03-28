@@ -1,0 +1,1 @@
+encrypted.zip/test.txt:$pkzip$1*2*2*0*14*8*96dc8d90*0*42*0*14*3bef*a4f2f7ecd39cca8e635ee9d19c6bb6a3cc8b9460*$/pkzip$:test.txt:encrypted.zip::encrypted.zip

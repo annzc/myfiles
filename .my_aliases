@@ -1,0 +1,69 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+
+source ~/.config/lf/lfrc
+
+# myTermux utility
+alias chcolor='/data/data/com.termux/files/home/.termux/colors.sh'
+alias chfont='/data/data/com.termux/files/home/.termux/fonts.sh'
+
+# my aliases
+alias q='exit'
+alias c='clear'
+alias v='nvim -u ~/.config/nvim/nvim.vim'
+alias V='nvim -u ~/.vimrc'
+alias vim=nvim
+alias ls="exa --icons"
+alias la="exa -a --icons"
+#alias la="exa --icons -lgha --group-directories-first"
+alias p='python'
+alias n='ncmpcpp'
+alias sd='cd /sdcard'
+alias bb=busybox
+alias mkill='mpd --kill'
+alias m="mkill && mpd && n"
+alias mem='df -h | egrep "size|storage" | awk "{print $2}"'
+alias srzsh='source ~/.zshrc'
+alias neo='neofetch --ascii_distro arcolinux_small'
+alias desktop='vncserver -geometry 1420x720'
+alias dkill='vncserver -kill'
+push(){
+  git push ssh://git@github.com/annzc/$1
+}
+
+# config files
+alias vimrc='v ~/.vimrc'
+alias xstart='v ~/.vnc/xstartup'
+alias rcxml='v ~/.config/openbox/rc.xml'
+alias aliases='v ~/.my_aliases'
+alias mpdconf="v ~/.mpd/mpd.conf"
+alias mpconf="v /data/data/com.termux/files/usr/etc/mpd.conf"
+alias neoconf='v ~/.config/neofetch/config.conf'
+alias ncmconf="v ~/.config/ncmpcpp/config"
+alias vimrc="v ~/.vimrc"
+alias nvimrc="v ~/.config/nvim/init.vim"
+alias zshrc="v ~/.zshrc"
+alias bashrc='v ~/../usr/etc/bash.bashrc'
+
+# go to directory
+alias annzc='cd ~/external/Documents/github.com/annzc'
+alias pf="cd $PREFIX"
+alias dload='cd /sdcard/download'
+alias github='cd /storage/D639-79B5/Documents/github.com'
+alias Ex='cd /storage/D639-79B5/'
+alias Doc='cd /storage/D639-79B5/Documents/'
+alias piton='cd /storage/D639-79B5/Documents/learnCode/python'
+alias binn='cd $PREFIX/bin'
+alias etc='cd $PREFIX/etc'
+
+cx() {
+  if [ $1 ]; then
+    chmod +x $1
+  else
+    echo "Usage: cx [file]"
+  fi
+}
+# john the ripper aliases
+source ~/bin/john_aliases
+listfile(){
+  find . -maxdepth 1 -type f | sed "/\.\/\./d" | sed "s/\.\///g"
+}

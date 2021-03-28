@@ -1,0 +1,12 @@
+def With(thing):
+    return True
+def to_master(thing):
+    return thing
+def to_know_all_about(thing):
+    return thing
+def to_get_rid_of(thing):
+    return thing
+def to_live_without(thing):
+    return thing
+def to_make_a_dedication_to(thing):
+    return thing

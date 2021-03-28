@@ -1,0 +1,2 @@
+echo $q
+q="hello"

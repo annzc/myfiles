@@ -1,0 +1,69 @@
+sw_volume: 92
+audio_device_state:1:Audio
+audio_device_state:1:Visualizer
+state: pause
+current: 27
+time: 30.079000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+song_begin: /data/data/com.termux/files/home/external/Music/1% no koibito.mp3
+Time: 235.180000
+Artist: HoneyWorks feat. Minami (CV:Toshiyuki Toyonaga)
+Album: Heroine tarumono / 1% no koibito
+Title: 1% no koibito
+Track: 2
+Comment: (P) 2020 MusicRay'n Inc. - JPX402000023
+Genre: Anime
+Date: 2020
+Disc: 1
+AlbumArtist: HoneyWorks
+mtime: 1613717872
+song_end
+1:Trap Anthem But Its Just Yun Head Singing Hikaru Nara.mp3
+2:When I Grow Up - NF.mp3
+3:Hollowness - 美波 (Minami) MV.mp3
+4:Black Clover Opening 10 Full『Black Catcher』by Vickeblanka _ Lyrics_256k.mp3
+5:Maou-jou de Oyasumi Ending-ED Full『Gimmme!』by ORESAMA_256k.mp3
+6:Chika dance FULL.mp3
+7:Eminem - kim.mp3
+8:Godzilla (feat. Juice WRLD) - Eminem.mp3
+9:In The End (Official HD Video) - Linkin Park_256k.mp3
+10:Jenifer Lopez - On The Floor (fingerstyle cover)_256k.mp3
+11:Juice WRLD - Lucid Dreams.mp3
+12:NF - Therapy Session.mp3
+13:Naruto - Sadness and Sorrow (Piano Version).mp3
+14:NF - How Could You Leave Us.mp3
+15:.uden ngertos tempe..mp3
+16:Numb - Linkin Park.mp3
+17:Papaoutai - Stromae.mp3
+18:.Zaki vs. Imran.mp3
+19:Mansion - NF.mp3
+20:Eminem - Rap God (Explicit) [Official Video].mp3
+21:NF - WHY.mp3
+22:Sadness and Sorrow - Ost Naruto (guitar cover).mp3
+23:main actor - 美波.mp3
+24:不可思議のカルテ 「Fukashigi no Karte」.mp3
+25:Substitute.mp3
+song_begin: /data/data/com.termux/files/home/external/Music/Sayuri - Heikousen.mp3
+Time: 299.024000
+Artist: Kuzu no Honkai Ending Full『Sayuri
+Album: Kuzu no Honkai Ending Full『Sayuri
+Title: Heikousen』(ENG SUB)
+mtime: 1613890154
+song_end
+song_begin: /data/data/com.termux/files/home/external/Music/Gumi - Childhood Blues (オサナナブルー).mp3
+Time: 312.189000
+Artist: Gumi
+Album: Gumi
+Title: Childhood Blues (オサナナブルー)
+Genre: Vocaloid
+mtime: 1614049908
+song_end
+28:Real - NF.mp3
+playlist_end

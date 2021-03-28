@@ -1,0 +1,4 @@
+set hidden true
+set icons true
+set mouse true
+set shell bash
